@@ -1,0 +1,52 @@
+{
+  "name": "Digital Core",
+  "size": 30000,
+  "children": [
+    {
+      "name": "Synchronized Planning",
+      "size": 20000,
+      "children": [
+        {
+          "name": "Chain of Custody and Integrity",
+          "size": 10000
+        },
+        {
+          "name": "Efficient Warehouse Operations",
+          "size": 10000
+        },
+        {
+          "name": "Supply Network Optimization",
+          "size": 10000
+        },
+        {
+          "name": "Commercialization and End-of-Life Planning",
+          "size": 10000
+        },
+        {
+          "name": "Responsive Supply Demand Matching",
+          "size": 10000
+        }
+      ]
+    },
+    {
+      "name": "Connected Customer",
+      "size": 20000
+    },
+    {
+      "name": "Smart Factory",
+      "size": 20000
+    },
+    {
+      "name": "Intelligent Supply",
+      "size": 20000
+    },
+    {
+      "name": "Digital Development",
+      "size": 20000
+    },
+    {
+      "name": "Dynamic Fulfillment",
+      "size": 20000
+    }
+  ]
+}
